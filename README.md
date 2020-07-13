@@ -1,5 +1,5 @@
 
-# PostFinder
+# TopFilter
 This repository contains the source code implementation of TopFilter and the datasets used to replicate the experimental results of our paper which has been accepted for publication in the Proceedings of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2020):
 
 _TopFilter: An Approach to Recommend Relevant GitHub Topics_
