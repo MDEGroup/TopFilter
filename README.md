@@ -14,7 +14,7 @@ In the context of software development, GitHub has been at the forefront of plat
 method to annotate stored repositories. However, labeling GitHub repositories should be carefully conducted to avoid adverse effects on project popularity and reachability. We present TopFilter, a novel approach to assist open source 
 software developers in selecting suitable topics for GitHub repositories being 
 created.
-We built a project-topic matrix and applied a syntactic-based similarity function to recommend missing topics by representing repositories and related topics in a graph. The ten-fold cross-validation methodology has been used to assess the performance of \TF by considering different 
+We built a project-topic matrix and applied a syntactic-based similarity function to recommend missing topics by representing repositories and related topics in a graph. The ten-fold cross-validation methodology has been used to assess the performance of TopFilter by considering different 
 metrics, i.e., success rate, precision, recall, and catalog coverage. The results show that TopFilter recommends good topics depending on different factors, i.e., collaborative filtering settings, 
 considered datasets, and pre-processing activities. Moreover, TopFilter can be combined with a state-of-the-art topic recommender system (i.e., MNB 
 network) to improve the overall prediction performance. Our results confirm that collaborative filtering techniques can successfully be used to provide relevant topics for GitHub 
