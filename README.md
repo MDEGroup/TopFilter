@@ -4,7 +4,7 @@ This repository contains the source code implementation of TopFilter and the dat
 
 _TopFilter: An Approach to Recommend Relevant GitHub Topics_
 
-A pre-print version of the paper is available [here](https://github.com/MDEGroup/TopFinder/blob/master/ESEM2020.pdf).
+A pre-print version of the paper is available <a href="https://github.com/MDEGroup/TopFilter/blob/master/ESEM2020.pdf"> here</a>.
 
 
 
